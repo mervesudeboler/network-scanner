@@ -1,0 +1,6 @@
+# Network Scanner - Dependencies
+# All modules are from Python standard library - no external packages needed.
+# Python 3.10+ required
+
+# Optional: install for richer output
+# rich>=13.0
